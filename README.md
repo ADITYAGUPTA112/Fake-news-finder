@@ -1,3 +1,3 @@
 ﻿# Fake-news-finder
-![Uploading image.png…]()
+
 
